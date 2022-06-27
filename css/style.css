@@ -1,0 +1,262 @@
+* {
+    box-sizing: border-box;
+    margin: 0%;
+    padding: 0%;
+
+}
+
+body {
+    margin: auto;
+}
+
+
+header {
+    background-color: black;
+    margin-top: 0%;
+    margin-bottom: 0%;
+
+}
+
+header nav {
+    display: flex;
+    justify-content: space-between;
+}
+
+header nav ul {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px;
+    list-style: none;
+}
+header nav a {
+    text-decoration: none;
+    margin: 5px;
+    padding: 5px;
+    color: white;
+    display: block; 
+}
+
+
+header nav a:hover {
+    background-color: darkslategrey;
+    color: black;
+    transition: 0.8s;
+
+}
+
+main {
+    background-image: url(/img/restaurant-interior.jpg);
+    background-position: center;
+    background-size: cover;
+    margin: 0%;
+    padding: 30px;
+    height: 800px;
+
+}
+
+main section {
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.sizeofimg {
+    width: 400px;
+    height: 180px;
+    display: block;
+    margin-left: 36%;
+    margin: auto;
+
+}
+
+
+h1 {
+    text-align: center;
+    color: bisque;
+    margin: 30px 30px;
+    margin-top: 80px;
+    font-size: 50px;
+    font-family: "Lato-Bold";
+    src: url(/the_final_project/font/Lato-Bold.ttf);
+}
+
+div {
+    display: flex;
+}
+
+section {
+
+    margin: 10px 10px;
+    padding: 5px 5px;
+}
+
+.resize {
+    width: 200px;
+    height: 80px;
+}
+
+h2 {
+    color: white;
+    text-align: center;
+    margin: 30px
+}
+
+.customerInfo {
+    background-image: url(/img/front-view-burger-stand.jpg);
+    background-color: black;
+    background-size: contain;
+    width: auto;
+    height: 500px;
+    margin-top: 2px;
+    display: flex;
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+.sidesection {
+    color: white;
+    list-style-type: none;
+    margin-top: 60px;
+    margin-left: 30px;
+
+}
+
+.sidesection ul li {
+    text-decoration: none;
+}
+
+.weareupper {
+    width: 30%;
+}
+
+.weareupper article {
+    font-size: larger;
+    font-family: "Lato-Bold";
+    src: url(/the_final_project/font/Lato-Bold.ttf);
+    margin-top: 50px;
+
+}
+
+h3,
+h4,
+h5,
+p {
+    color: white;
+}
+
+.paragraphfirst {
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.lastdivision section p {
+    color: black;
+}
+
+.lastdivision section h2 {
+    color: black;
+    align-items: center;
+    margin: 30px;
+    padding: 30px;
+}
+
+.lastdivision {
+    margin-bottom: 50px;
+    padding-bottom: 30px;
+}
+
+.tomenu a {
+    color: black;
+    text-decoration: none;
+}
+
+.menu {
+    background-image: url(/the_final_project/img/beef_steak.jpg);
+    background-size: cover;
+    height: 400px;
+    display: block;
+    margin-top: 20px;
+    margin-right: 0%;
+    margin-left: 0%;
+    align-items: center;
+
+
+}
+
+.menu h2 {
+    color: white;
+    text-align: center;
+    margin: 30px;
+    font-family: "Lato-Bold";
+    src: url(/the_final_project/font/Lato-Bold.ttf);
+    font-size: 80px;
+
+}
+
+.menu p {
+    text-align: center;
+    font-size: 30px;
+    color: beige;
+}
+
+.galleryPics {
+    margin: 0%;
+
+}
+
+
+.galleryPics ul {
+    display: flex;
+    align-items: center;
+    margin: 8px;
+    text-align: center;
+
+}
+
+.galleryPics ul li {
+    list-style: none;
+}
+
+.galleryPics ul li a {
+    margin: 15px;
+    margin-left: 30px;
+
+
+}
+
+
+.glheading {
+    text-align: center;
+    color: bisque;
+    margin: 30px 30px;
+    margin-top: 80px;
+    font-size: 50px;
+    font-family: "Lato-Bold";
+    src: url(/the_final_project/font/Lato-Bold.ttf)
+}
+
+.contact {
+    display: flex;
+    color: white;
+    align-items: center;
+}
+
+.contact ul {
+    margin: 80px;
+}
+
+.contact ul li {
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+    font-size: 30px;
+}
+
+.linkcontact {
+    text-decoration: none;
+    color: white ;
+}
+
+.linkcontact:hover {
+    background-color: blueviolet;
+    transition: 1s;
+
+}
+ 
