@@ -46,7 +46,7 @@ header nav a:hover {
 }
 
 main {
-    background-image: url(/img/restaurant-interior.jpg);
+    background-image: url(/upper-burger-grill/img/restaurant-interior.jpg);
     background-position: center;
     background-size: cover;
     margin: 0%;
@@ -101,7 +101,7 @@ h2 {
 }
 
 .customerInfo {
-    background-image: url(/img/front-view-burger-stand.jpg);
+    background-image: url(/upper-burger-grill/img/front-view-burger-stand.jpg);
     background-color: black;
     background-size: contain;
     width: auto;

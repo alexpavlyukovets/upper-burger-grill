@@ -60,7 +60,7 @@ h2 {
 }
 
 .menu {
-    background-image: url(/img/menu.jpg);
+    background-image: url(/upper-burger-grill/img/menu.jpg);
     background-size: cover;
     height: 400px;
     display: block;
@@ -93,7 +93,7 @@ h2 {
 }
 
 .burger {
-    background-image: url(/img/chef-cooking-food-restaurant-kitchen.jpg);
+    background-image: url(/upper-burger-grill/img/chef-cooking-food-restaurant-kitchen.jpg);
     height: 600px;
     background-size: cover;
     font-size: 100px;
@@ -109,7 +109,7 @@ h2 {
 }
 
 .brmenu {
-    background-image: url(/img/burger-menu-cut.jpg);
+    background-image: url(/upper-burger-grill/img/burger-menu-cut.jpg);
     display: flex;
     background-size: cover;
     margin: 0%;
@@ -156,7 +156,7 @@ h2 {
 }
 
 .bottom {
-    background-image: url(/img/burger-menu-cut-bottom.jpg);
+    background-image: url(/upper-burger-grill/img/burger-menu-cut-bottom.jpg);
     height: 200px;
     margin: 10px;
     background-size: cover;
